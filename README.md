@@ -11,6 +11,15 @@
 <br />
 <br />
 
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/codestackr)
+
 [website]: https://github.com/rahmanenjozz
 [pythonplaylist]: https://www.youtube.com/playlist?list=PLY55vG8rshxryIuExkbJCh9vFePUfNpX8
 [javaplaylist]: https://www.youtube.com/playlist?list=PLY55vG8rshxqfHradYtXp7vwcBrHtLd_b
