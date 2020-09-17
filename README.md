@@ -25,6 +25,9 @@
 
 ➡️ [more videos...](https://www.youtube.com/mamans)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanenjozz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [website]: https://github.com/rahmanenjozz
 [pythonplaylist]: https://www.youtube.com/playlist?list=PLY55vG8rshxryIuExkbJCh9vFePUfNpX8
 [javaplaylist]: https://www.youtube.com/playlist?list=PLY55vG8rshxqfHradYtXp7vwcBrHtLd_b
