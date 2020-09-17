@@ -1,4 +1,4 @@
-### Hi there, I'm Rahmans - aka [MamaNs][website] 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br />
 
@@ -25,7 +25,7 @@
 
 ➡️ [more videos...](https://www.youtube.com/mamans)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanenjozz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanenjozz&layout=compact&hide_border=true)]
 
 
 [website]: https://github.com/rahmanenjozz
