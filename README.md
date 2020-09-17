@@ -16,6 +16,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Python FLASK - Source Code KNN from scratch](https://www.youtube.com/watch?v=QQd8cz3m-EI)
+- [Java Swing UI - Gradient jPanel Design](https://www.youtube.com/watch?v=k_AdBjWzmvs)
+- [C# UI - Design Dashboard Type 3](https://www.youtube.com/watch?v=IXma7FYYeOI)
+- [C# UI - Design Dashboard Type 2](https://www.youtube.com/watch?v=urugIPjtAaY)
+- [C# UI - Design Dashboard](https://www.youtube.com/watch?v=0zzQP1ywpzs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
