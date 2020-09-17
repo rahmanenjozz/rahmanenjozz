@@ -23,7 +23,7 @@
 - [C# UI - Design Dashboard](https://www.youtube.com/watch?v=0zzQP1ywpzs)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/mamans)
 
 [website]: https://github.com/rahmanenjozz
 [pythonplaylist]: https://www.youtube.com/playlist?list=PLY55vG8rshxryIuExkbJCh9vFePUfNpX8
