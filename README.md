@@ -15,6 +15,9 @@
 
 ### 📺 Latest YouTube Videos
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!-- YOUTUBE:START -->
 - [Python FLASK - Source Code KNN from scratch](https://www.youtube.com/watch?v=QQd8cz3m-EI)
 - [Java Swing UI - Gradient jPanel Design](https://www.youtube.com/watch?v=k_AdBjWzmvs)
