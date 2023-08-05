@@ -25,7 +25,7 @@
 
 ➡️ [more videos...](https://www.youtube.com/mamans)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanenjozz&layout=compact&hide_border=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanenjozz&layout=compact&hide_border=true)
 
 
 [website]: https://github.com/rahmanenjozz
