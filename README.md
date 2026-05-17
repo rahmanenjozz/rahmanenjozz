@@ -16,7 +16,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JbYAU81b91A"><img width="140px" src="http://img.youtube.com/vi/JbYAU81b91A/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JbYAU81b91A">Freecss is live!</a><br/>May 15, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=JbYAU81b91A">Freecss is live!</a><br/>May 17, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QQd8cz3m-EI"><img width="140px" src="http://img.youtube.com/vi/QQd8cz3m-EI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QQd8cz3m-EI">Python FLASK - Source Code KNN from scratch</a><br/>Jun 27, 2020</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=k_AdBjWzmvs"><img width="140px" src="http://img.youtube.com/vi/k_AdBjWzmvs/maxresdefault.jpg"></a></td>
