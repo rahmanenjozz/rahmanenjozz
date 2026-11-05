@@ -38,7 +38,9 @@ shipped products: automated AI insight reports, smart alert systems, and AI assi
 ### Find me elsewhere
 
 <p>
+  <a href="https://huggingface.co/rahmanenjozz"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /></a>
   <a href="https://steamcommunity.com/id/rahmanenjozz/"><img src="https://img.shields.io/badge/Steam-171A21?style=flat-square&logo=steam&logoColor=white" /></a>
   <a href="https://www.instagram.com/rahmanenjozz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://open.spotify.com/user/enjozz"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" /></a>
 </p>
 
