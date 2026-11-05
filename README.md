@@ -30,10 +30,8 @@ shipped products: automated AI insight reports, smart alert systems, and AI assi
 
 ### Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-metrics-dark.svg">
-  <img alt="Stats" src="./github-metrics-light.svg">
-</picture>
+<!-- STATS:START -->
+<!-- STATS:END -->
 
 ### Find me elsewhere
 
