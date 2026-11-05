@@ -1,37 +1,27 @@
-name: Metrics
+name: Update README stats
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # tiap hari jam 07:00 WIB
   workflow_dispatch:
 
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Dark
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: rahmanenjozz
-          filename: github-metrics-dark.svg
-          template: classic
-          base: repositories
-          plugin_traffic: yes
-          extras_css: |
-            * { color: #f0f6fc !important; }
-            svg.icon, .field svg, h2 svg { fill: #9198a1 !important; }
+permissions:
+  contents: write
 
-      - name: Light
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: rahmanenjozz
-          filename: github-metrics-light.svg
-          template: classic
-          base: repositories
-          plugin_traffic: yes
-          extras_css: |
-            * { color: #1f2328 !important; }
-            svg.icon, .field svg, h2 svg { fill: #59636e !important; }
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update stats
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          INCLUDE_PRIVATE: "false"
+        run: python3 .github/scripts/update_stats.py
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || (git commit -m "Update README stats" && git push)
