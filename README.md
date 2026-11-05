@@ -28,9 +28,14 @@
 Was the technical backbone of a data science team at a media intelligence company, building large-scale NLP pipelines and translating linguists' and analysts' insights into
 shipped products: automated AI insight reports, smart alert systems, and AI assistants.
 
+### Stats
+
+![Metrics](/github-metrics.svg)
+
 ### Find me elsewhere
 
 <p>
   <a href="https://steamcommunity.com/id/rahmanenjozz/"><img src="https://img.shields.io/badge/Steam-171A21?style=flat-square&logo=steam&logoColor=white" /></a>
   <a href="https://www.instagram.com/rahmanenjozz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
+
