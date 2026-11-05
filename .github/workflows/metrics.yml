@@ -16,5 +16,5 @@ jobs:
           user: rahmanenjozz
           filename: github-metrics.svg
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, repositories
           plugin_traffic: yes
