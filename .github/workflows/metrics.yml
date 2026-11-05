@@ -20,8 +20,7 @@ jobs:
           base: repositories
           plugin_traffic: yes
           extras_css: |
-            svg, .field { color: #9198a1 !important; }
-            h1, h2, h2 a, a { color: #f0f6fc !important; }
+            * { color: #f0f6fc !important; }
             svg.icon, .field svg, h2 svg { fill: #9198a1 !important; }
 
       - name: Light
@@ -34,6 +33,5 @@ jobs:
           base: repositories
           plugin_traffic: yes
           extras_css: |
-            svg, .field { color: #59636e !important; }
-            h1, h2, h2 a, a { color: #1f2328 !important; }
+            * { color: #1f2328 !important; }
             svg.icon, .field svg, h2 svg { fill: #59636e !important; }
