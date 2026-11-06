@@ -40,7 +40,7 @@ for r in (repos if INCLUDE_PRIVATE else public):
 
 today = datetime.now(timezone.utc).strftime("%d %b %Y")
 block = (
-    f"**{len(public)}** repositories · **{stars}** stars · **{forks}** forks · "
+    f"**{len(repos)}** repositories (incl. private) · **{stars}** stars · **{forks}** forks · "
     f"**{user['followers']}** followers · **{views}** views in the last 14 days\n\n"
 )
 
