@@ -16,6 +16,12 @@
   <img src="https://img.shields.io/badge/Firestore-24292F?style=flat-square&logo=firebase&logoColor=white" />
 </p>
 
+<!-- STATS:START -->
+**13** repositories · **17** stars · **11** forks · **26** followers · **158** views in the last 14 days
+
+<sub>Updated 05 Nov 2026</sub>
+<!-- STATS:END -->
+
 ### What I do
 
 - Bring AI into real products: smart search, recommendations, auto-tagging
@@ -27,14 +33,6 @@
 
 Was the technical backbone of a data science team at a media intelligence company, building large-scale NLP pipelines and translating linguists' and analysts' insights into
 shipped products: automated AI insight reports, smart alert systems, and AI assistants.
-
-### Stats
-
-<!-- STATS:START -->
-**13** repositories · **17** stars · **11** forks · **26** followers · **158** views in the last 14 days
-
-<sub>Updated 05 Nov 2026</sub>
-<!-- STATS:END -->
 
 ### Find me elsewhere
 
