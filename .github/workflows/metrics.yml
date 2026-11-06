@@ -16,7 +16,7 @@ jobs:
       - name: Update stats
         env:
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
-          INCLUDE_PRIVATE: "false"
+          INCLUDE_PRIVATE: "true"
         run: python3 .github/scripts/update_stats.py
 
       - name: Commit
