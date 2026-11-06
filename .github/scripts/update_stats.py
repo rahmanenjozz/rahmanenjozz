@@ -42,7 +42,6 @@ today = datetime.now(timezone.utc).strftime("%d %b %Y")
 block = (
     f"**{len(public)}** repositories · **{stars}** stars · **{forks}** forks · "
     f"**{user['followers']}** followers · **{views}** views in the last 14 days\n\n"
-    f"<sub>Updated {today}</sub>"
 )
 
 with open("README.md", encoding="utf-8") as f:
