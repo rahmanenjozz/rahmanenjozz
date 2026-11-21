@@ -17,7 +17,7 @@
 </p>
 
 <!-- STATS:START -->
-**18** repositories (incl. private) · **17** stars · **11** forks · **28** followers · **466** views in the last 14 days
+**18** repositories (incl. private) · **17** stars · **11** forks · **28** followers · **276** views in the last 14 days
 
 
 <!-- STATS:END -->
